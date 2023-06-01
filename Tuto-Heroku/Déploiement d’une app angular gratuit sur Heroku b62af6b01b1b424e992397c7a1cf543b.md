@@ -28,7 +28,7 @@ Assurez-vous de travailler sur une branche de développement et d’envoyer votr
     npm i express
     ```
     
-- Créer un fichier server.js à la racine du projet contenant le code suivant :
+- Créer un fichier server.js à la racine du projet contenant le code suivant en remplaçant “/dist/final-brief-weather” part “dist/nom-du-repo-github” aux lignes 6 et 9 : 
     
     ```jsx
     const express = require("express");
