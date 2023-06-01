@@ -12,7 +12,6 @@
 - Nous allons voir la méthode de déploiement via GitHub bien que la méthode via Heroku CLI soit également intéressante 
 
 connectez l’app à un repo gitHub et cliquez sur Enable Automatic Deploys sur la branche main.
-    
     ![Capture d’écran 2023-06-01 à 10.57.35.png](De%CC%81ploiement%20d%E2%80%99une%20app%20angular%20gratuit%20sur%20Heroku%20b62af6b01b1b424e992397c7a1cf543b/Capture_decran_2023-06-01_a_10.57.35.png)
     
 
